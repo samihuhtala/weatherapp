@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div>
+    <h2>
+      Search for city
+    </h2>
+    <input
+      onChange={[Function]}
+      type="text"
+    />
+    <input
+      onClick={[Function]}
+      type="submit"
+      value="Search"
+    />
+    <div>
+      Temperature of 
+      
+       
+      0
+      ℃
+    </div>
+    <h2>
+      Save searched cities
+    </h2>
+    <input
+      onClick={[Function]}
+      type="submit"
+      value="Save"
+    />
+    <table
+      className="table"
+    >
+      <thead>
+        <tr>
+          <td>
+            City
+          </td>
+          <td>
+            Temperature
+          </td>
+        </tr>
+      </thead>
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 2`] = `
+<div
+  className="App"
+>
+  <div>
+    <h2>
+      Search for city
+    </h2>
+    <input
+      onChange={[Function]}
+      type="text"
+    />
+    <input
+      onClick={[Function]}
+      type="submit"
+      value="Search"
+    />
+    <div>
+      Temperature of 
+      
+       
+      0
+      ℃
+    </div>
+    <h2>
+      Save searched cities
+    </h2>
+    <input
+      onClick={[Function]}
+      type="submit"
+      value="Save"
+    />
+    <table
+      className="table"
+    >
+      <thead>
+        <tr>
+          <td>
+            City
+          </td>
+          <td>
+            Temperature
+          </td>
+        </tr>
+      </thead>
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
+
+exports[`renders correctly part 2  1`] = `
+<div>
+  <h2>
+    Search for city
+  </h2>
+  <input
+    onChange={[Function]}
+    type="text"
+  />
+  <input
+    onClick={[Function]}
+    type="submit"
+    value="Search"
+  />
+  <div>
+    Temperature of 
+    
+     
+    0
+    ℃
+  </div>
+  <h2>
+    Save searched cities
+  </h2>
+  <input
+    onClick={[Function]}
+    type="submit"
+    value="Save"
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr>
+        <td>
+          City
+        </td>
+        <td>
+          Temperature
+        </td>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;
+
+exports[`renders correctly part 2  2`] = `
+<div>
+  <h2>
+    Search for city
+  </h2>
+  <input
+    onChange={[Function]}
+    type="text"
+  />
+  <input
+    onClick={[Function]}
+    type="submit"
+    value="Search"
+  />
+  <div>
+    Temperature of 
+    
+     
+    0
+    ℃
+  </div>
+  <h2>
+    Save searched cities
+  </h2>
+  <input
+    onClick={[Function]}
+    type="submit"
+    value="Save"
+  />
+  <table
+    className="table"
+  >
+    <thead>
+      <tr>
+        <td>
+          City
+        </td>
+        <td>
+          Temperature
+        </td>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;
